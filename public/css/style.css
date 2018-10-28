@@ -1,0 +1,81 @@
+.header h4 a
+{
+    color: white;
+    font-size: 35px;
+
+    background: #178192 ;
+
+    padding: 10px 30px;
+    border-radius: 35px;
+
+}
+.header
+{
+
+    text-align: center;
+
+}
+.header h4
+{
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.header h4 a:hover
+{
+    background: #F46F06;
+    transition: all linear .3s;
+}
+a{
+    text-decoration: none;
+}
+
+
+/* Create Students */
+
+.create
+{
+    text-align: center;
+    background: #4aa0e6;
+    padding: 150px 0px;
+}
+
+input
+{
+    width: 250px;
+    height: 25px;
+    border: 1px solid white;
+    border-radius: 25px;
+}
+legend
+{
+    color: white;
+    font-size: 40px;
+    margin-top: 15px;
+}
+button
+{
+    padding: 10px 30px;
+    transition: all linear .3s;
+    border-radius: 25px;
+    background: #F46F06;
+    color: white;
+
+}
+.edit h4 a
+{
+    padding: 10px 30px;
+    margin-top: 25px;
+    transition: all linear .3s;
+    border-radius: 25px;
+    background: darkgreen;
+    color: white;;
+}
+ button:hover
+ {
+     background: orangered;
+ }
+.edit h4 a:hover
+{
+    background: orangered;
+}
